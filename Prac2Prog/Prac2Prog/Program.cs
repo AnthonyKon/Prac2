@@ -10,7 +10,7 @@ namespace Prac2Prog
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Version prac");
+            Console.WriteLine("Version2 prac");
             Console.ReadLine();
         }
     }
